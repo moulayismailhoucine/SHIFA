@@ -1,0 +1,1376 @@
+{
+  "models": [
+    {
+      "path": "medisys\\ml_scripts\\models\\fracture_cnn_model.h5",
+      "size": 13342880
+    },
+    {
+      "path": "medisys\\ml_scripts\\models\\isic_cnn_model.h5",
+      "size": 11374152
+    },
+    {
+      "path": "medisys\\ml_scripts\\venv_train\\Lib\\site-packages\\h5py\\tests\\data_files\\vlen_string_dset.h5",
+      "size": 6304
+    },
+    {
+      "path": "medisys\\ml_scripts\\venv_train\\Lib\\site-packages\\h5py\\tests\\data_files\\vlen_string_dset_utc.h5",
+      "size": 169904
+    },
+    {
+      "path": "medisys\\ml_scripts\\venv_train\\Lib\\site-packages\\h5py\\tests\\data_files\\vlen_string_s390x.h5",
+      "size": 9008
+    }
+  ],
+  "zip_files": [],
+  "candidates": [
+    {
+      "rel_path": "ai-service\\__pycache__",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 4043,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ai-service\\__pycache__",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 17510,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\medisys\\medisys\\resources\\views\\admin\\fraud-attempts",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 10002,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\medisys\\resources\\views\\admin\\fraud-attempts",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 10002,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_fracture",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 497,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_fracture\\Bone_Fracture_Binary_Classification",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_fracture\\Bone_Fracture_Binary_Classification\\Bone_Fracture_Binary_Classification",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_fracture\\Bone_Fracture_Binary_Classification\\Bone_Fracture_Binary_Classification\\test",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_fracture\\Bone_Fracture_Binary_Classification\\Bone_Fracture_Binary_Classification\\test\\fractured",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_fracture\\Bone_Fracture_Binary_Classification\\Bone_Fracture_Binary_Classification\\test\\not fractured",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_fracture\\Bone_Fracture_Binary_Classification\\Bone_Fracture_Binary_Classification\\train",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_fracture\\Bone_Fracture_Binary_Classification\\Bone_Fracture_Binary_Classification\\train\\fractured",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_fracture\\Bone_Fracture_Binary_Classification\\Bone_Fracture_Binary_Classification\\train\\not fractured",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_fracture\\Bone_Fracture_Binary_Classification\\Bone_Fracture_Binary_Classification\\val",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_fracture\\Bone_Fracture_Binary_Classification\\Bone_Fracture_Binary_Classification\\val\\fractured",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_fracture\\Bone_Fracture_Binary_Classification\\Bone_Fracture_Binary_Classification\\val\\not fractured",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_isic2020",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_isic2020\\skin_dataset_resized",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_isic2020\\skin_dataset_resized\\test_set",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_isic2020\\skin_dataset_resized\\test_set\\benign",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_isic2020\\skin_dataset_resized\\test_set\\malignant",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_isic2020\\skin_dataset_resized\\train_set",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_isic2020\\skin_dataset_resized\\train_set\\benign",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_isic2020\\skin_dataset_resized\\train_set\\malignant",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_isic2020\\skin_dataset_resized\\val_set",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_isic2020\\skin_dataset_resized\\val_set\\benign",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\ml_scripts\\data_isic2020\\skin_dataset_resized\\val_set\\malignant",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 0,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 24626884,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\.bin",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 7260,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\.vite",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 271374,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\.vite\\deps",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 271374,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\@esbuild",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 9914373,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\@esbuild\\win32-x64",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 9914373,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\@rollup",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 4517955,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\@rollup\\rollup-win32-x64-gnu",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 1977887,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\@rollup\\rollup-win32-x64-msvc",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 2540068,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\@types",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 26173,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\@types\\estree",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 26173,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\asynckit",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 27362,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\asynckit\\lib",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 11649,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\axios",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 2445962,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\axios\\dist",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 2023416,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\axios\\dist\\browser",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 333193,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\axios\\dist\\esm",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 553820,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\axios\\dist\\node",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 483073,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\axios\\lib",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 163735,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\axios\\lib\\adapters",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 49899,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\axios\\lib\\cancel",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 3513,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\axios\\lib\\core",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 29421,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\axios\\lib\\defaults",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 4885,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\axios\\lib\\helpers",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 46536,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\axios\\lib\\platform",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 3358,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\axios\\lib\\platform\\browser",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 652,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\axios\\lib\\platform\\browser\\classes",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 342,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\axios\\lib\\platform\\common",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 1603,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\axios\\lib\\platform\\node",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 971,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\axios\\lib\\platform\\node\\classes",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 134,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\call-bind-apply-helpers",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 15952,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\call-bind-apply-helpers\\.github",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 594,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\call-bind-apply-helpers\\test",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 2658,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\combined-stream",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 11514,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\combined-stream\\lib",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 4687,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\delayed-stream",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 8021,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\delayed-stream\\lib",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 2319,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\dunder-proto",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 13003,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\dunder-proto\\.github",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 583,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\dunder-proto\\test",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 2889,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\es-define-property",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 10217,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\es-define-property\\.github",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 564,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\es-define-property\\test",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 1299,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\es-errors",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 12324,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\es-errors\\.github",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 555,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\es-errors\\test",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 356,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\es-object-atoms",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 11442,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\es-object-atoms\\.github",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 555,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\es-object-atoms\\test",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 1097,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\es-set-tostringtag",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 14544,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\es-set-tostringtag\\test",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 2235,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\esbuild",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 133372,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\esbuild\\bin",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 9200,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\esbuild\\lib",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 110645,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\follow-redirects",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 30614,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\form-data",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 81211,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\form-data\\lib",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 14926,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\function-bind",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 31427,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\function-bind\\.github",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 741,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\function-bind\\test",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 9167,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\get-intrinsic",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 46542,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\get-intrinsic\\.github",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 584,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\get-intrinsic\\test",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 8758,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\get-proto",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 10840,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\get-proto\\.github",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 580,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\get-proto\\test",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 2359,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\gopd",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 9869,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\gopd\\.github",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 575,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\gopd\\test",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 656,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\has-symbols",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 23409,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\has-symbols\\.github",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 582,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\has-symbols\\test",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 4350,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\has-symbols\\test\\shams",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 1557,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\has-tostringtag",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 17603,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\has-tostringtag\\.github",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 586,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\has-tostringtag\\test",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 2974,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\has-tostringtag\\test\\shams",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 1763,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\hasown",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 10021,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\hasown\\.github",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 552,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\laravel-vite-plugin",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 46966,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\laravel-vite-plugin\\bin",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 2579,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\laravel-vite-plugin\\dist",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 39157,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\laravel-vite-plugin\\inertia-helpers",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 482,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\math-intrinsics",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 17323,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\math-intrinsics\\.github",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 561,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\math-intrinsics\\constants",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 757,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\math-intrinsics\\test",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 6320,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\mime-db",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 205539,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\mime-types",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 18272,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\nanoid",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 32583,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\nanoid\\async",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 10086,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\nanoid\\bin",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 1129,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\nanoid\\non-secure",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 2693,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\nanoid\\url-alphabet",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 489,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\picocolors",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 6373,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\picomatch",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 90605,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\picomatch\\lib",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 59543,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\postcss",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 204244,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\postcss\\lib",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 199496,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\rollup",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 2833332,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\rollup\\dist",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 2776042,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\rollup\\dist\\bin",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 82269,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\rollup\\dist\\es",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 1297748,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\rollup\\dist\\es\\shared",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 1294951,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\rollup\\dist\\shared",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 1346252,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\source-map-js",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 139872,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\source-map-js\\lib",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 105945,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\vite",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 3279269,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\vite\\bin",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 4361,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\vite\\dist",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 3093651,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\vite\\dist\\client",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 24424,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\vite\\dist\\node",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 2908814,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\vite\\dist\\node\\chunks",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 2686963,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\vite\\dist\\node-cjs",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 160413,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\vite\\types",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 6217,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\vite-plugin-full-reload",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 10930,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\node_modules\\vite-plugin-full-reload\\dist",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 4736,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\resources\\views\\admin\\fraud-attempts",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 10002,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\guzzlehttp\\uri-template",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 15311,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\guzzlehttp\\uri-template\\src",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 9575,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\league\\commonmark\\src\\Extension\\DisallowedRawHtml",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 3665,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\league\\uri\\UriTemplate",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 21800,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\nunomaduro\\collision\\.temp",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 8,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\phpunit\\php-code-coverage\\src\\Report\\Html\\Renderer\\Template",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 751107,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\phpunit\\php-code-coverage\\src\\Report\\Html\\Renderer\\Template\\css",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 174544,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\phpunit\\php-code-coverage\\src\\Report\\Html\\Renderer\\Template\\icons",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 538,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\phpunit\\php-code-coverage\\src\\Report\\Html\\Renderer\\Template\\js",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 544532,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\phpunit\\php-text-template",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 10877,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\phpunit\\php-text-template\\src",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 3751,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\phpunit\\php-text-template\\src\\exceptions",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 1202,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\phpunit\\phpunit\\src\\Framework\\MockObject\\Generator\\templates",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 4133,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\phpunit\\phpunit\\src\\Util\\PHP\\Template",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 7537,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\thecodingmachine\\safe\\generated",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 1619641,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\thecodingmachine\\safe\\generated\\8.1",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 559865,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\thecodingmachine\\safe\\generated\\8.2",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 309371,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\thecodingmachine\\safe\\generated\\8.3",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 64277,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\thecodingmachine\\safe\\generated\\8.4",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 349081,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\thecodingmachine\\safe\\generated\\8.5",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 120827,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\thecodingmachine\\safe\\generated\\8.6",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 148670,
+      "files_sample": []
+    },
+    {
+      "rel_path": "medisys\\vendor\\thecodingmachine\\safe\\generated\\Exceptions",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 23195,
+      "files_sample": []
+    },
+    {
+      "rel_path": "resources\\views\\admin\\fraud-attempts",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 10002,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\guzzlehttp\\uri-template",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 15311,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\guzzlehttp\\uri-template\\src",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 9575,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\league\\commonmark\\src\\Extension\\DisallowedRawHtml",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 3665,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\league\\uri\\UriTemplate",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 21800,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\nunomaduro\\collision\\.temp",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 8,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\phpunit\\php-code-coverage\\src\\Report\\Html\\Renderer\\Template",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 751107,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\phpunit\\php-code-coverage\\src\\Report\\Html\\Renderer\\Template\\css",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 174544,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\phpunit\\php-code-coverage\\src\\Report\\Html\\Renderer\\Template\\icons",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 538,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\phpunit\\php-code-coverage\\src\\Report\\Html\\Renderer\\Template\\js",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 544532,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\phpunit\\php-text-template",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 10877,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\phpunit\\php-text-template\\src",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 3751,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\phpunit\\php-text-template\\src\\exceptions",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 1202,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\phpunit\\phpunit\\src\\Framework\\MockObject\\Generator\\templates",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 4133,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\phpunit\\phpunit\\src\\Util\\PHP\\Template",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 7537,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\thecodingmachine\\safe\\generated",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 1619641,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\thecodingmachine\\safe\\generated\\8.1",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 559865,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\thecodingmachine\\safe\\generated\\8.2",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 309371,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\thecodingmachine\\safe\\generated\\8.3",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 64277,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\thecodingmachine\\safe\\generated\\8.4",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 349081,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\thecodingmachine\\safe\\generated\\8.5",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 120827,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\thecodingmachine\\safe\\generated\\8.6",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 148670,
+      "files_sample": []
+    },
+    {
+      "rel_path": "vendor\\thecodingmachine\\safe\\generated\\Exceptions",
+      "del_count": 0,
+      "del_size": 0,
+      "total_size": 23195,
+      "files_sample": []
+    }
+  ],
+  "node_modules": [
+    {
+      "path": "medisys\\node_modules",
+      "size": 24626884
+    }
+  ],
+  "cache_dirs": [
+    {
+      "path": "ai-service\\__pycache__",
+      "size": 4043
+    },
+    {
+      "path": "medisys\\ai-service\\__pycache__",
+      "size": 17510
+    }
+  ],
+  "duplicates": [],
+  "total_deletable_files": 0,
+  "total_deletable_size": 0
+}

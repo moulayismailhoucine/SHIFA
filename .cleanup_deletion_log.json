@@ -1,0 +1,58 @@
+{
+  "timestamp": 1778114405.8774204,
+  "summary": [
+    {
+      "path": "medisys\\node_modules",
+      "exists": true,
+      "pre_size_bytes": 24626884,
+      "pre_size_mb": 23.49,
+      "deleted_bytes": 24626884,
+      "method": "rmtree_images_skipped"
+    },
+    {
+      "path": "ai-service\\__pycache__",
+      "exists": true,
+      "pre_size_bytes": 4043,
+      "pre_size_mb": 0.0,
+      "deleted_bytes": 4043,
+      "method": "rmtree_images_skipped"
+    },
+    {
+      "path": "medisys\\ai-service\\__pycache__",
+      "exists": true,
+      "pre_size_bytes": 17510,
+      "pre_size_mb": 0.02,
+      "deleted_bytes": 17510,
+      "method": "rmtree_images_skipped"
+    },
+    {
+      "path": "medisys\\ml_scripts\\data_isic2020",
+      "exists": true,
+      "pre_size_bytes": 0,
+      "pre_size_mb": 0.0,
+      "deleted_bytes": 0,
+      "deleted_count": 0,
+      "method": "delete_images_and_prune_empty"
+    },
+    {
+      "path": "medisys\\ml_scripts\\data_isic2020\\skin_dataset_resized",
+      "exists": false
+    },
+    {
+      "path": "medisys\\ml_scripts\\data_fracture",
+      "exists": true,
+      "pre_size_bytes": 497,
+      "pre_size_mb": 0.0,
+      "deleted_bytes": 0,
+      "deleted_count": 0,
+      "method": "delete_images_and_prune_empty"
+    },
+    {
+      "path": "medisys\\ml_scripts\\data_fracture\\Bone_Fracture_Binary_Classification",
+      "exists": false
+    }
+  ],
+  "total_freed_bytes": 24648437,
+  "empty_dirs_removed": 10,
+  "final_size_bytes": 2958066400
+}

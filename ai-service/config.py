@@ -1,0 +1,2 @@
+IMG_SIZE = 224
+MODEL_PATH = "model.h5"

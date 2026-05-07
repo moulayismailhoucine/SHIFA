@@ -1,0 +1,21 @@
+{
+    "Dashboard": "Dashboard",
+    "Patients": "Patients",
+    "Doctors": "Doctors",
+    "Medical Records": "Medical Records",
+    "Prescriptions": "Prescriptions",
+    "Pharmacies": "Pharmacies",
+    "Laboratories": "Laboratories",
+    "Appointments": "Appointments",
+    "Logout": "Logout",
+    "Clinical": "Clinical",
+    "Administration": "Administration",
+    "Main": "Main",
+    "Scan NFC Card": "Scan NFC Card",
+    "Notifications": "Notifications",
+    "Dark Mode": "Dark Mode",
+    "Light Mode": "Light Mode",
+    "Language": "Language",
+    "English": "English",
+    "Arabic": "Arabic"
+}

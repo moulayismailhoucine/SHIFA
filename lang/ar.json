@@ -1,0 +1,21 @@
+{
+    "Dashboard": "لوحة القيادة",
+    "Patients": "المرضى",
+    "Doctors": "الأطباء",
+    "Medical Records": "السجلات الطبية",
+    "Prescriptions": "الوصفات الطبية",
+    "Pharmacies": "الصيدليات",
+    "Laboratories": "المختبرات",
+    "Appointments": "المواعيد",
+    "Logout": "تسجيل الخروج",
+    "Clinical": "سريري",
+    "Administration": "الإدارة",
+    "Main": "الرئيسية",
+    "Scan NFC Card": "مسح بطاقة NFC",
+    "Notifications": "الإشعارات",
+    "Dark Mode": "الوضع الداكن",
+    "Light Mode": "الوضع الفاتح",
+    "Language": "اللغة",
+    "English": "الإنجليزية",
+    "Arabic": "العربية"
+}
